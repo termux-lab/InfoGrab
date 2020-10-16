@@ -8,5 +8,5 @@
 <hr>
 <div> geo - get GeoLocation</div>
 <div> image - get photo</div>
-<div> geo/image - first geo data then photo</div>
-<div> image/geo - first photo data then geo</div>
+<div> geo/image - first get geo data then photo</div>
+<div> image/geo - first get photo data then geo</div>
